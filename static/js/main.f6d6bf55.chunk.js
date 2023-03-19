@@ -270,59 +270,59 @@
           ],
         ],
         repos: [
-          "MediSec- Blockchain Ecosystem for Pharmacutical Industry",
-          "Blurb - Platform for Influence Marketer",
-          "Campus Security Cloud Robot",
-          "Bay Area Bike Prediciton App",
-          "Netflix-Clone",
-          "Cross Domain Enterprise Marketplace",
-          "Leetcode-Github Extension",
-          "Research Work",
+          "CloudMusic",
+          "Botman",
+          "VMX-Features",
+          "Research Website",
+          // "Netflix-Clone",
+          // "Cross Domain Enterprise Marketplace",
+          // "Leetcode-Github Extension",
+          // "Research Work",
         ],
         projectDates: {
-          "MediSec- Blockchain Ecosystem for Pharmacutical Industry": "October 2020 - December 2020",
-          "Blurb - Platform for Influence Marketer": "August 2020 - October 2020",
-          "Campus Security Cloud Robot": "August 2019 - October 2019",
-          "Bay Area Bike Prediciton App": "May 2020 - July 2020",
-          "Netflix-Clone": "",
-          "Cross Domain Enterprise Marketplace": "March 2020 - May 2020",
-          "Leetcode-Github Extension": "March 2020 - May 2020",
-          "Research Work": "March 2020 - May 2020",
+          "CloudMusic": "October 2020 - December 2020",
+          "Botman": "August 2020 - October 2020",
+          "VMX-Features": "August 2019 - October 2019",
+          "Research Website ": "May 2020 - July 2020",
+          // "Netflix-Clone": "",
+          // "Cross Domain Enterprise Marketplace": "March 2020 - May 2020",
+          // "Leetcode-Github Extension": "March 2020 - May 2020",
+          // "Research Work": "March 2020 - May 2020",
 
         },
         projectDesc: {
-          "MediSec- Blockchain Ecosystem for Pharmacutical Industry": [
-            "Developed a Blockchain Ecosystem on Solidty and Android to overcome the problem of wastage of counterfiet medicinces in Pharma Industry.",
-            "SKILLS :  Solidity | Truffle | Java | PHP | Web3.JS | IPFS | Ganache | Infura | Rinkbey Test Network",
+          "CloudMusic": [
+            "Devised a highly responsive cross-platform application using cloud-based storage enables seamless music streaming on any device, resulting in a 25% increase in user engagement.",
+            "Implemented support for seamless sharing of playlists resulting in a 30% increase in user engagement and social media visibility.",
           ],
-          "Blurb - Platform for Influence Marketer": [
-            "Influence marketing platform that connects brands to influencers. Apps sophisticated social network algorithm helps to select current influencers based on demands, reach and targeted audience.",
-            "SKILLS : Java | Android | FireBase | Social Media Integeration | Google Analytics",
+          "Botman": [
+            "Developed an intelligent conversational software agent to assist new students by promptly answering basic queries regarding college events, activities, and course information, resulting in a 50% reduction in student support response time.",
+            "Managed using following tech stack: Android, PHP, API.AI, REST API, JSON, CURL.",
           ],
-          "Campus Security Cloud Robot": [
+          "VMX-Features": [
             "Inteligent Robot Simulation hosted on AWS Cloud to enhance the Security in Campus. CSR provides the infrastructure parts and source code needed to install a highly available, scalable campus security robot.",
             "SKILLS : JavaScript | AWS | Java | NodeJS | Webots | MongoDB | MYSQL",
           ],
-          "Bay Area Bike Prediciton App": [
-            "The major goal of project were the regression and projections of bike riders at a certain Bay Area city for a specific day using the multiple time, weather, and behavior factors that we have access to.",
-            "Algorithms Used : Random Forest Regression | ExtraTrees Regression | XGBoost | KNN | Lasso Linear Regression | Gradient Boosting",
+          "Research Website": [
+            "Develop a responsive research website for San Jose State University by leveraging PHP Laravel, jQuery, and JavaScript to design both User Panel and Admin Panel while incorporating Simple Bootstrap for Frontend to enhance user experience.",
+            "Increase student traffic by 25% utilizing SEO best practices and incorporating user feedback into design iterations.",
           ],
-          "Netflix-Clone": [
-            "Developed a scalable 3-tier web application having functionalities of Netflix with 200 plus movies using Redux, React (hooks, router-dom, dom), Firebase w/ Stripe intergrated, Axios, TMDB API, Youtube API, and MovieTrailer API.",
-            "SKILLS : React | Redux | TMDB API | FireStore | Stripe Payment",
-          ],
-          "Cross Domain Enterprise Marketplace": [
-            "An scalable online market place which combines the services and products from different online stores and provides a single eCommerce platform to users to buy products/services from any of the component websites.",
-            "SKILLS : Php | Mysql | Cookies | AWS EC2 | Heroku",
-          ],
-          "Research Work": [
-            "1. Securing Resources for Decentralized Cloud Storage (Storj.io, FileCoin , SiaCoin). | 2. Cryptocurrency - Reminiscent of Dot Com Bubble or Emergence of a New Paradigm in Decentralized Finance.",
-            "SKILLS : Cloud Computing | Decentralized Databases | Cryptocurrency | Web3",
-          ],
-          "Leetcode-Github Extension": [
-            "Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub. A chrome extension that automatically pushes your code to GitHub when you pass all tests on a Leetcode problem.",
-            "SKILLS : JavaScript | Chrome-Extension | HTML | Json | Git",
-          ],
+          // "Netflix-Clone": [
+          //   "Developed a scalable 3-tier web application having functionalities of Netflix with 200 plus movies using Redux, React (hooks, router-dom, dom), Firebase w/ Stripe intergrated, Axios, TMDB API, Youtube API, and MovieTrailer API.",
+          //   "SKILLS : React | Redux | TMDB API | FireStore | Stripe Payment",
+          // ],
+          // "Cross Domain Enterprise Marketplace": [
+          //   "An scalable online market place which combines the services and products from different online stores and provides a single eCommerce platform to users to buy products/services from any of the component websites.",
+          //   "SKILLS : Php | Mysql | Cookies | AWS EC2 | Heroku",
+          // ],
+          // "Research Work": [
+          //   "1. Securing Resources for Decentralized Cloud Storage (Storj.io, FileCoin , SiaCoin). | 2. Cryptocurrency - Reminiscent of Dot Com Bubble or Emergence of a New Paradigm in Decentralized Finance.",
+          //   "SKILLS : Cloud Computing | Decentralized Databases | Cryptocurrency | Web3",
+          // ],
+          // "Leetcode-Github Extension": [
+          //   "Automatically integrate your Leetcode & GeeksforGeeks submissions to GitHub. A chrome extension that automatically pushes your code to GitHub when you pass all tests on a Leetcode problem.",
+          //   "SKILLS : JavaScript | Chrome-Extension | HTML | Json | Git",
+          // ],
         },
       };
     },
